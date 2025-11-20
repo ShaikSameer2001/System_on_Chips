@@ -37,3 +37,6 @@
 [submodule "Scr1"]
 	path = Scr1
 	url = https://github.com/syntacore/scr1
+[submodule "litexfpga"]
+	path = litexfpga
+	url = https://github.com/enjoy-digital/litex
