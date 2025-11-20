@@ -4,3 +4,21 @@
 [submodule "FE310"]
 	path = FE310
 	url = https://github.com/sifive/freedom
+[submodule "RedBoard"]
+	path = RedBoard
+	url = https://github.com/sparkfun/Red_V
+[submodule "PicoRio"]
+	path = PicoRio
+	url = https://github.com/YosysHQ/picorv32
+[submodule "Ariane"]
+	path = Ariane
+	url = https://github.com/openhwgroup/cva6
+[submodule "blackparrot"]
+	path = blackparrot
+	url = https://github.com/black-parrot/black-parrot
+[submodule "CVA6"]
+	path = CVA6
+	url = https://github.com/openhwgroup/cva6
+[submodule "VexRiscv"]
+	path = VexRiscv
+	url = https://github.com/SpinalHDL/VexRiscv
