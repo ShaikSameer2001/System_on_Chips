@@ -22,3 +22,18 @@
 [submodule "VexRiscv"]
 	path = VexRiscv
 	url = https://github.com/SpinalHDL/VexRiscv
+[submodule "NEORV32"]
+	path = NEORV32
+	url = https://github.com/stnolting/neorv32
+[submodule "riscvboom"]
+	path = riscvboom
+	url = https://github.com/riscv-boom/riscv-boom
+[submodule "cv32e40p"]
+	path = cv32e40p
+	url = https://github.com/openhwgroup/cv32e40p
+[submodule "Ibex"]
+	path = Ibex
+	url = https://github.com/lowRISC/ibex
+[submodule "Scr1"]
+	path = Scr1
+	url = https://github.com/syntacore/scr1
