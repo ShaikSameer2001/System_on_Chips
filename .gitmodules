@@ -1,3 +1,6 @@
 [submodule "opentitan"]
 	path = opentitan
 	url = https://github.com/lowRISC/opentitan
+[submodule "FE310"]
+	path = FE310
+	url = https://github.com/sifive/freedom
