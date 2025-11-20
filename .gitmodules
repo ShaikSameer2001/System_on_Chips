@@ -40,3 +40,15 @@
 [submodule "litexfpga"]
 	path = litexfpga
 	url = https://github.com/enjoy-digital/litex
+[submodule "nvdiaacclerator"]
+	path = nvdiaacclerator
+	url = https://github.com/nvdla/hw
+[submodule "gemmini"]
+	path = gemmini
+	url = https://github.com/ucb-bar/gemmini
+[submodule "OpenSocFabric"]
+	path = OpenSocFabric
+	url = https://github.com/ucb-bar/OpenSoCFabric
+[submodule "miaow"]
+	path = miaow
+	url = https://github.com/VerticalResearchGroup/miaow
